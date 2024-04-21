@@ -17,7 +17,7 @@ improve our upfront pricing precision for our customers’ smooth journeys.
 
 Create a detailed report:
 -------------------------
-Your task is to analyze this data and identify the top 1 to 2 opportunities that can help us improve upfront pricing precision. 
+Your task is to analyze the data and identify the top 1 to 2 opportunities that can help us improve upfront pricing precision. 
 The expected output is a business PDF report. Assume that both business and technical people will read your results.
 
 Data Dictionary:
